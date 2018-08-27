@@ -1,0 +1,21 @@
+# calculator_messages.yml
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  first_number: "Hello! Please enter your first number:"
+  second_number: "Well, enter the second number:"
+  invalid_number: "Hmm... That doesn't look like a valid number."
+  operator: "Enter an operator: #{operator_prompt}"
+  continue?: "Do you wanna perform another calculation? (Y to start again)"
+  bye: "Thanks you for using calculation. Good bye"
+
+cn:
+  welcome: "欢迎使用计算器，请输入你的名字"
+  valid_name: "用户名不合法，请重新输入："
+  first_number: "请输入第一个数字："
+  second_number: "请输入第二个数字："
+  invalid_number: "请核对数字正确性，重新输入："
+  operator: "请输入计算符："
+  continue?: "开启新的一轮计算吗？（输入 Y 以继续）"
+  bye: "谢谢使用，再见！"
+# ... rest of file omitted for brevity
