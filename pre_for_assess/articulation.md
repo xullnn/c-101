@@ -135,15 +135,15 @@ Rubocop itself is a modular framework using a pluggable architecture to insert e
 
 #### Coding Tips
 
--  descriptive variable and method names 描述性的变数名和方法名
+- descriptive variable and method names 描述性的变数名和方法名
 
--  capture the intent of the variable 明确变量的用途
+- capture the intent of the variable 明确变量的用途
 
-- return value shouldn't be the intent of the method 方法的 return value 应该体现建立该方法的意图
+- return value should be the intent of the method 方法的 return value 应该体现建立该方法的意图
 
 - clarity over terseness 清晰优于简短
 
-- conditional noun 条件式
+- conditional. noun 条件式
 
 #### Variable Scope
 
@@ -259,7 +259,7 @@ The first one is over-written by the third as they have identical keys.
 - the `break` condition would never be met `break` 就永远不会满足`break`条件
 - meet the `break` condition 遇到`break`条件
 
-- if modifier `if` 条件修饰  至在行内使用`if`的句法比如 `break if n > 5`
+- if modifier. `if` 条件修饰  至在行内使用`if`的句法比如 `break if n > 5`
 
 - move `break` to the first line within the loop 将`break`移到loop内部的第一行
 
@@ -279,9 +279,6 @@ The first one is over-written by the third as they have identical keys.
 - sth equals sth 作联系动词
 - sth and sth are equal 作形容词
 - one things is equal to another 形容词
-
-- orderly printed four times with the values of each element interpolated into the string each time
-每次将单个元素作为string的插值，并按顺序印出4次
 
 - fetch the value we want via specific key  通过具体的key拿到我们想要的值
 
@@ -322,7 +319,7 @@ Selection and transformation both utilize the basics of looping: a loop, a count
 
 - accomplish a task 实现（完成）一个任务
 
-- the method take a block, which is the `do...end` part 这个方法接受一个block, 也就是`do...end`那部分
+- the method takes a block, which is the `do...end` part 这个方法接受一个block, 也就是`do...end`那部分
 
 - the code within the block is executed for each iteration block中的代码会在每一次迭代时被执行
 
