@@ -26,7 +26,7 @@ class Person
 end
 ```
 
-Use `CamelCase` formatting and no spaces between, either captialize every word.
+Use `CamelCase` formatting and no spaces between, either capitalize every word.
 
 #### A Note on Style
 
