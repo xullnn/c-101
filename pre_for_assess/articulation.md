@@ -1,4 +1,4 @@
-### Practice for articulating concepts precisely and depicting thought process and coding process accurately.
+### Practice for articulating concepts precisely and describing thought process and coding process accurately.
 
 #### Typical practices
 
@@ -407,8 +407,6 @@ Selection and transformation both utilize the basics of looping: a loop, a count
 
 - array element update (like `array[2] = "x"`)
 - element reference (like `array[1]`)
-
-- chain element reference with appending an element 在array引用后串接注入元素的操作
 
 - three-layer nested data stucture
 
