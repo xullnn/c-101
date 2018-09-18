@@ -434,4 +434,4 @@ Selection and transformation both utilize the basics of looping: a loop, a count
 
 - isolate code into reasonable chunks and extract to methods
 
-- write methods that have on single responsibility
+- write methods that have one single responsibility
